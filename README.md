@@ -13,3 +13,4 @@ Pasos para ejecutar proyecto:
 2. Tomar la carpeta dist y desplegarla
 3. No genera cambios
 4. Ahora se reflejan los cambios
+5. El problema se origino porque se creo un nuevo repo
