@@ -13,3 +13,20 @@ Pasos para ejecutar proyecto:
 2. Tomar la carpeta dist y desplegarla
 3. No genera cambios
 4. deee
+5
+
+5
+45
+er
+ar
+ewr
+we
+rew
+r
+wer
+35
+
+t
+werwe
+rew
+rwerwerewrwerqweqrwqerewqrweqre
